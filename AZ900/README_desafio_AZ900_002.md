@@ -85,6 +85,14 @@ Resumo:
 
 - Tabela de SLA do Azure:
     
-    ![image.png](attachment:1e51741e-b848-4f0b-8118-6ed9395f960d:image.png)
-
+    ![image_Tabela_SLA_Azure.png](./image_Tabela_SLA_Azure.png)
+  
+- Contas de Armazenamentos - Opções de redundância:
+    
+    
+    | **L**RS | Local Redundance with Storage | Armazenamento com Redundância Local |
+    | --- | --- | --- |
+    | **G**RS | Geographic Redundance with Storage | Armazenamento com Redundância Geográfica |
+    | **Z**RS | Zone Redundance with Storage | Armazenamento com Redundância de Zona |
+    | **GZ**RS | Geographic Zone Redundance with Storage | Armazenamento com Redundância de Zona Geográfica |
 .

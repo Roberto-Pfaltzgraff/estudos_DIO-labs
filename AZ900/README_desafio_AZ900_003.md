@@ -95,7 +95,14 @@ Resumo:
     | **G**RS | Geographic Redundance with Storage | Armazenamento com Redundância Geográfica |
     | **Z**RS | Zone Redundance with Storage | Armazenamento com Redundância de Zona |
     | **GZ**RS | Geographic Zone Redundance with Storage | Armazenamento com Redundância de Zona Geográfica |
-.
+  
 
-
+- Desafio de projeto: Configurando uma instância de Banco de Dados na Azure
+    - Criação de Máquina Virtual na Azure
+        - No desafio anterior, vimos as opções de Tipos de Serviços de Nuvem e as de Armazenamento com Redundância.
+        E como a seleção dessas opções mudava o valor.
+        - Neste desafio, iremos ver a influência das opções de S.O. (Sistema Operacional) e parâmetros correlacionados, tal como tipo de disco.
+    - Configuração da Rede Virtual e etc.
+    - Criação de Banco de Dados
+        - Observamos que é necessário informar um servidor, mesmo sem administrá-lo, temos que informar algumas características sobre o servidor, tal como o local onde ficará.
 .

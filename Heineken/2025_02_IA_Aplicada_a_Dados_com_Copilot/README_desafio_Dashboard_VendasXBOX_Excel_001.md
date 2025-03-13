@@ -41,6 +41,9 @@ O intuito é aplicar tudo que foi aprendido até o momento.
 >   - OBS: Demais detalhes estão anotados/registrados na aba **Cálculo** do arquivo excel entregue.
 >- Para cada questão, trabalhar os dados de modo a transformá-los na informação que responda a questão.  
 >- Por fim, montar o Dashboard com as informações levantadas e disponibilizá-lo na aba **Dashboard**.  
+  
+>Imagem estática do Dashboard:  
+>![img_PrintDashboard.png](../imgs/img_PrintDashboard.png)  
 >😄🎉🔚  
 >
 ---

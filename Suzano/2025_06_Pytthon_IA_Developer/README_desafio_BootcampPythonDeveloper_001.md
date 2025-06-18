@@ -25,8 +25,6 @@ Para cumprir este desafio, você deverá:
 
 > **Dica:**  
 > Assim como nos desafios anteriores, se alguma etapa apresentar problemas – por exemplo, a duplicação do template – execute adaptações que mantenham os princípios de transparência, inspeção e adaptação, essenciais tanto no Scrum quanto no desenvolvimento de agentes inteligentes.  
->
-> ![CHALLENGE ACCEPTED](img_DesafioAceito.png)
 
 ---
 
